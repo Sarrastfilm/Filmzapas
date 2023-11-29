@@ -1,57 +1,57 @@
 [
   {
-    "image": "https://drive.google.com/file/d/1V8n5p0ojdyEyTOgC5Lbln1vheMV8ZpdT/view?usp=sharing",
-    "name": "📌PART 1 💯",
+    "image": "https://drive.google.com/file/d/1vV0HfG_vMK3ScGWtuaUy3zo4LdGMvVdo/view?usp=sharing",
+    "name": "📌PART 1 💯\n💠گرامر زبان انگلیسی : قسمت اول✔️",
     "link": "https://rizy.ir/NwA7b"
   },
   {
-    "image": "https://drive.google.com/file/d/1pKFnltW16njC0qMWpULf4RBnsWrg0hFb/view?usp=sharing",
-    "name": "📌PART 2 💯",
+    "image": "https://drive.google.com/file/d/13vHALKPifa1KyEbOyxIv4SAuVD3x0SM1/view?usp=sharing",
+    "name": "📌PART 2 💯\n💠گرامر زبان انگلیسی: قسمت دوم✔️",
     "link": "https://rizy.ir/JkqRc"
   },
   {
-    "image": "https://drive.google.com/file/d/1om2mXSsODwLBs-XwYKBgSvk4t-fcAv1x/view?usp=sharing",
-    "name": "📌PART 3 💯",
+    "image": "https://drive.google.com/file/d/1tauUOnnPOJnGxTfDHe3Y1ix86FZe-oDY/view?usp=sharing",
+    "name": "📌PART 3 💯\n💠گرامر زبان انگلیسی : قسمت سوم✔️",
     "link": "https://rizy.ir/YDsnk"
   },
   {
-    "image": "https://drive.google.com/file/d/1y7g8w26M8-VjsWQoBSXbW1cVspbY4emR/view?usp=sharing",
-    "name": "📌PART 4 💯",
+    "image": "https://drive.google.com/file/d/1yu2bmzb_aOdgRqN5viAc82-1GUoEx2l7/view?usp=sharing",
+    "name": "📌PART 4 💯\n💠گرامر زبان انگلیسی : قسمت چهارم✔️",
     "link": "https://rizy.ir/RYuQ"
   },
   {
-    "image": "https://drive.google.com/file/d/1c_L_YZWRjCzpPOLrK-H0m4mbbfAVvsjt/view?usp=sharing",
-    "name": "📌PART 5 💯",
+    "image": "https://drive.google.com/file/d/1g9rmXlP-U4WfucG4BRWGWPPVRq6Ohjtd/view?usp=sharing",
+    "name": "📌PART 5 💯\n💠گرامر زبان انگلیسی : قسمت پنجم✔️",
     "link": "https://rizy.ir/NrhVIdl"
   },
   {
-    "image": "https://drive.google.com/file/d/1WXga7W905_Ryvk-r28NaHO1f2Pctlxud/view?usp=sharing",
-    "name": "📌PART 6 💯",
+    "image": "https://drive.google.com/file/d/1adguttmfV3eGlh0cXkIipFz09bkgsFMc/view?usp=sharing",
+    "name": "📌PART 6 💯\n💠گرامر زبان انگلیسی : قسمت ششم✔️",
     "link": "https://rizy.ir/ELFQH9"
   },
   {
-    "image": "https://drive.google.com/file/d/1WTq7z_H7HpftI6R1p_TaeBObbWBmZ_e6/view?usp=sharing",
-    "name": "📌PART 7 💯",
+    "image": "https://drive.google.com/file/d/1joXWnupn4fu52E1V0co91WG-cyL22D81/view?usp=sharing",
+    "name": "📌PART 7 💯\n💠گرامر زبان انگلیسی : قسمت هفتم✔️",
     "link": "https://rizy.ir/ZAFl7"
   },
   {
-    "image": "https://drive.google.com/file/d/1B03bV95LLsIIYjJfM27-lkXmgL85flhh/view?usp=sharing",
-    "name": "📌PART 8 💯",
+    "image": "https://drive.google.com/file/d/1S4aKSV4lC-aw06UgFBrrK58pSgnrARrO/view?usp=sharing",
+    "name": "📌PART 8 💯\n💠گرامر زبان انگلیسی : قسمت هشتم✔️",
     "link": "https://rizy.ir/8fwmQa"
   },
   {
-    "image": "https://drive.google.com/file/d/1se189fUgIam-Z_3J2FGJKeLAG5OeTTYj/view?usp=sharing",
-    "name": "📌PART 9 💯",
+    "image": "https://drive.google.com/file/d/1da-5yoJmjZVTWFDZt4YNEnoyooheING7/view?usp=sharing",
+    "name": "📌PART 9 💯\n💠گرامر زبان انگلیسی : قسمت نهم✔️",
     "link": "https://rizy.ir/jbCt"
   },
   {
-    "image": "https://drive.google.com/file/d/1WyuYBapqY_Zs5dwqM5tt67tGvaiphWGW/view?usp=sharing",
-    "name": "📌PART 10 💯",
+    "image": "https://drive.google.com/file/d/1DGc0QWHZBDfe7TeyTb_m4uIqwaw3Y2Xi/view?usp=sharing",
+    "name": "📌PART 10 💯\n💠گرامر زبان انگلیسی : قسمت دهم✔️",
     "link": "https://rizy.ir/3TClBu"
   },
   {
-    "image": "https://drive.google.com/file/d/119W1UWrAlGdEBUwBI5VFxaoC_sZrXSHZ/view?usp=sharing",
-    "name": "📌PART 11 💯",
+    "image": "https://drive.google.com/file/d/1Cdn-yCsbAS81sPub9NzUizXLD3imAAUc/view?usp=sharing",
+    "name": "📌PART 11 💯\n💠گرامر زبان انگلیسی : قسمت یازدهم✔️",
     "link": "https://rizy.ir/kCiGr"
   }
 ]
