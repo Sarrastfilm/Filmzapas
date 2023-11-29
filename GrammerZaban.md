@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://drive.google.com/file/d/1hqicnfUn-axgYAKuuBb4GOgB-GtFbAp8/view?usp=sharing",
+    "image": "https://drive.google.com/uc?export=download&id=1hqicnfUn-axgYAKuuBb4GOgB-GtFbAp8",
     "name": "📌PART 1 💯\n💠گرامر زبان انگلیسی : قسمت اول✔️",
     "link": "https://rizy.ir/NwA7b"
   },
